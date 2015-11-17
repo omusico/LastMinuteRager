@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.boomer.omer.lastminuterager.fragments.Fragment_Tickets"
+    android:orientation="vertical">
+
+
+    <Spinner
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:id="@+id/spinner_filter"
+        android:layout_weight="1"
+        android:background="#ffff3a52" />
+
+    <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/listView_tickets"
+        android:layout_weight="1" />
+</LinearLayout>

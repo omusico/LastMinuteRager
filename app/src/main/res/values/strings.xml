@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">LastMinuteRager</string>
+    <string name="facebook_app_id">755899157849795</string>
+    <string name="title_activity_activity__main">Activity_Main</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity__log_in">Activity_LogIn</string>
+    <string name="title_activity_activity__sign_up">Activity_SignUp</string>
+
+    <string name="string_login">Login</string>
+    <string name="string_signup">Sign Up</string>
+    <string name="string_username">Username</string>
+    <string name="string_password">Password</string>
+    <string name="string_repeat_password">Repeat Password</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="string_accept_terms">I have read and accepted the terms of use</string>
+    <string name="string_show_terms">Show Terms of Use</string>
+    <string name="string_login_with_facebook">Facebook</string>
+    <string name="string_login_with_twitter">Twitter</string>
+    <string name="string_login_with">Login with:</string>
+
+    <string name="string_logged_in_via">Logged in via:</string>
+    <string name="string_facebook">Facebook</string>
+    <string name="string_twitter">Twitter</string>
+    <string name="string_sign_out">Sign Out</string>
+
+
+    <string name="twitter_KEY">MtgTbD1Utdv6PKqZblUWQte39</string>
+    <string name="twitter_SECRET">ofmRIex1oK1L9BRUZsgDCKYtfgeUdlt1njBzzm0p4UIXgcV0rw</string>
+    <string name="parse_API">l45K5VZXsI6b1JdVAT3ZonzFy3xAIifmSrN9KYnC</string>
+    <string name="parse_KEY">H9UbHutBZZEIdgBderm4H38pfKcaTEE8Hg6nTI2d</string>
+
+    <string name="TITLE_LOGIN">LOG IN</string>
+    <string name="TITLE_SELL_TICKET">SELL YOUR TICKET</string>
+    <string name="TITLE_TICKET_DETAILS">TICKET DETAILS</string>
+    <string name="TITLE_SIGN_UP">SIGN UP</string>
+
+
+    <string name="string_ok">OK</string>
+    <string name="terms_and_conditions_title">Terms and Conditions</string>
+    <string name="terms_and_conditions">We do not guarantee the authenticity of the tickets that are sold. we just provide the listings and contact details. It is your responsibility to validate authenticity.</string>
+
+    <string name="string_following">Follow</string>
+    <string name="string_notifications">Notifications:</string>
+    <string name="string_sell_ticket">Sell A Ticket</string>
+
+    <string name="string_ticket_name">Event Name</string>
+    <string name="string_ticket_description">Ticket Description</string>
+    <string name="string_ticket_price">Price</string>
+
+    <string name="string_ticket_post">Post</string>
+    <string name="string_ticket_cancel">Cancel</string>
+    <string name="string_ticket_reset">Reset</string>
+    <string name="string_ticket_contact">Contact Info</string>
+
+
+    <string name="string_back">Back</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_activity__sell_ticket">Activity_SellTicket</string>
+    <string name="title_activity_activity__ticket_details">Activity_TicketDetails</string>
+
+    <string name="string_sync">Sync</string>
+
+    <string name="action_back">Back</string>
+    <string name="action_logout">Logout</string>
+
+</resources>
